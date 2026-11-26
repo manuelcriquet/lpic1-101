@@ -1,5 +1,11 @@
 # CXX · Preguntas de autoevaluación
-**Puntaje:** _/10 · **Fecha:** __
+**Puntaje:** _/10 · **Fecha:** AAAA-MM-DD · **Tiempo:** _ min
 
-1. (Completar) ¿Qué comando ...?
-   <details><summary>Respuesta</summary>`comando`</details>
+1. (Completar) ¿...?
+   <details><summary>Respuesta</summary>`respuesta`</details>
+
+2. (Opción múltiple) ¿...? A) ... B) ... C) ... D) ...
+   <details><summary>Respuesta</summary>B</details>
+
+3. (Varias respuestas) ¿...? Elegí dos.
+   <details><summary>Respuesta</summary>A y C</details>
