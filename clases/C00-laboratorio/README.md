@@ -58,7 +58,6 @@
 
 ## Evidencias
 ![cat /etc/os-release en la VM Debian 13](../../evidencias/C00/01-os-release.png)
-![uname -a en la VM Debian 13](../../evidencias/C00/01.png)
 ![lsblk en la VM Debian 13](../../evidencias/C00/02-lsblk.png)
 ![df -h en la VM Debian 13](../../evidencias/C00/03-df-h.png)
 ![free -h en la VM Debian 13](../../evidencias/C00/04-free-h.png)
